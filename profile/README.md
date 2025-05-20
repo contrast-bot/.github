@@ -37,3 +37,6 @@ Contrast Bot is built with modern technologies and best practices:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+## Website
+The website is hosted at [contrast-bot.github.io](https://contrast-bot.github.io) using GitHub Pages.
